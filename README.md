@@ -1,4 +1,4 @@
-Hi 👋 My name is Noah Harborth
+Hi 👋 My name is Noah
 ==============================
 
 Front End Developer
