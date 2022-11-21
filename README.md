@@ -1,15 +1,15 @@
 Hi 👋 My name is Noah
 ==============================
 
-Front End Developer
+Fullstack Developer
 -------------------
 
-I'm a Front End Dev with a bit of Back End work at my current job. In my free time I'm learning to become a Full Stack Dev :)
+I'm a Fullstack Dev with a strong focus on the Front End^^
 
 * 🌍  I'm based in Düsseldorf
-* ✉️  You can contact me at [Noah.Harborth@gmx.de](mailto:Noah.Harborth@gmx.de)
-* 🚀  I'm currently working on [EVKK Website](http://evkk.de)
-* 🧠  I'm learning React, PHP and JEE/JSP
+* ✉️  You can contact me at [noahhrbth@icloud.com](mailto:noahhrbth@icloud.com)
+* 🚀  I'm currently working on the new [Kunstpalast Shop](http://kunstpalast.de)
+* 🧠  I'm learning React, PHP and TypeScript
 * 🤝  I'm open to collaborating on any project from app to web
 
 ### Skills
