@@ -1,15 +1,15 @@
 Hi 👋 My name is Noah
 ==============================
 
-Fullstack Developer
+Front End Developer
 -------------------
 
-I'm a Fullstack Dev with a strong focus on the Front End^^
+I'm a Front End Dev training to become a Full Stack Dev one day 🔥
 
 * 🌍  I'm based in Düsseldorf
 * ✉️  You can contact me at [noahhrbth@icloud.com](mailto:noahhrbth@icloud.com)
 * 🚀  I'm currently working on the new [Kunstpalast Shop](http://kunstpalast.de)
-* 🧠  I'm learning React, PHP and TypeScript
+* 🧠  I'm learning React and Astro
 * 🤝  I'm open to collaborating on any project from app to web
 
 ### Skills
