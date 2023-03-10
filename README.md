@@ -1,10 +1,10 @@
 Hi 👋 My name is Noah
 ==============================
 
-Front End Developer
+Sofware Developer
 -------------------
 
-I'm a Front End Dev training to become a Full Stack Dev one day 🔥
+I'm a Software Dev training to become better at Full Stack 🔥
 
 * 🌍  I'm based in Düsseldorf
 * ✉️  You can contact me at [noahhrbth@icloud.com](mailto:noahhrbth@icloud.com)
