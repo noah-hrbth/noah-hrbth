@@ -8,7 +8,6 @@ I'm a Software Dev training to become better at Full Stack 🔥
 
 * 🌍  I'm based in Düsseldorf
 * ✉️  You can contact me at [noahhrbth@icloud.com](mailto:noahhrbth@icloud.com)
-* 🚀  I'm currently working on the new [Kunstpalast Shop](http://kunstpalast.de)
 * 🧠  I keep learning React, Next.js and Astro
 * 🤝  I'm open to collaborating on any project from app to web
 
